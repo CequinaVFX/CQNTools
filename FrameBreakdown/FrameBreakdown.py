@@ -1,13 +1,14 @@
 ##############################################################################
 #                                                                            #
 # Breakdown Frame Exporter                                                   #
-# V 1.0                                                                      #
+# V 1.0.0                                                                    #
 # Release August 01 2020                                                     #
 #                                                                            #
 # Created by Luciano Cequinel (vimeo.com/cequinavfx)                         #
 # to report bugs or suggestions lucianocequinel@gmail.com                    #
 #                                                                            #
 ##############################################################################
+
 
 
 '''
