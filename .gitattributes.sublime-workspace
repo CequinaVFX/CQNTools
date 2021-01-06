@@ -1,0 +1,543 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Wri",
+				"Write"
+			],
+			[
+				"track",
+				"trackers"
+			],
+			[
+				"aspe",
+				"aspectRatio"
+			],
+			[
+				"sho",
+				"shotFolder"
+			],
+			[
+				"save",
+				"saveFile"
+			],
+			[
+				"pu",
+				"puzzleList"
+			],
+			[
+				"Chan",
+				"channelLayerList"
+			],
+			[
+				"chan",
+				"channelLayerList"
+			],
+			[
+				"all",
+				"allNodes"
+			],
+			[
+				"posta",
+				"postageNode"
+			],
+			[
+				"shuff",
+				"shuffleNode"
+			],
+			[
+				"chn",
+				"channelLayer"
+			],
+			[
+				"hide",
+				"hide_input"
+			],
+			[
+				"shu",
+				"shuffleNode"
+			],
+			[
+				"read",
+				"readSel"
+			],
+			[
+				"set",
+				"setInput"
+			],
+			[
+				"shuf",
+				"shuffleNodeName"
+			],
+			[
+				"crea",
+				"createNode"
+			],
+			[
+				"creat",
+				"createNode"
+			],
+			[
+				"exc",
+				"except"
+			],
+			[
+				"nuke",
+				"nukeFile"
+			],
+			[
+				"script",
+				"scriptFolder"
+			],
+			[
+				"vers",
+				"versionUp"
+			],
+			[
+				"Aut",
+				"AutoProjectSettings"
+			],
+			[
+				"False",
+				"False"
+			],
+			[
+				"tx",
+				"txtFile"
+			],
+			[
+				"Sa",
+				"SaveandClose"
+			],
+			[
+				"fi",
+				"files"
+			],
+			[
+				"di",
+				"dirs"
+			],
+			[
+				"dir",
+				"dirPath"
+			],
+			[
+				"fil",
+				"filename"
+			],
+			[
+				"file",
+				"fileList"
+			],
+			[
+				"nk",
+				"nkList"
+			],
+			[
+				"txt",
+				"txtList"
+			],
+			[
+				"new",
+				"newRead"
+			],
+			[
+				"add",
+				"addFolder"
+			],
+			[
+				"tr",
+				"tryDBox"
+			],
+			[
+				"con",
+				"count"
+			],
+			[
+				"li",
+				"listA"
+			],
+			[
+				"lis",
+				"listB"
+			],
+			[
+				"out",
+				"outPoint"
+			],
+			[
+				"com",
+				"compositor"
+			],
+			[
+				"nF",
+				"nFolder"
+			],
+			[
+				"nFo",
+				"nFormat"
+			],
+			[
+				"sel",
+				"selNode"
+			],
+			[
+				"Write",
+				"WriteEXE"
+			],
+			[
+				"Sel",
+				"selectedNode"
+			],
+			[
+				"orig",
+				"origOutPoint"
+			],
+			[
+				"or",
+				"origInPoint"
+			],
+			[
+				"ou",
+				"outPoint"
+			],
+			[
+				"export",
+				"exportAt"
+			],
+			[
+				"try",
+				"tryExtension"
+			],
+			[
+				"brea",
+				"breadown_"
+			],
+			[
+				"folder",
+				"folderName"
+			],
+			[
+				"folde",
+				"folderName"
+			],
+			[
+				"Frame",
+				"FrameBreakdown"
+			],
+			[
+				"selec",
+				"selectedNode"
+			],
+			[
+				"hi",
+				"hide_input"
+			],
+			[
+				"Channel",
+				"ChannelMerge"
+			],
+			[
+				"Layer",
+				"LayerContactSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/lucia/.nuke/scripts/cqnTools/menu.py",
+		"/C/Users/lucia/Downloads/ref_menu.py",
+		"/I/_Learn_/_Python_/NUK230 PySide for NUKE/nuk230-files02/widget_overview_pt1.py",
+		"/I/_Learn_/_Python_/NUK230 PySide for NUKE/nuk230-files03/tab.py",
+		"/B/_Tools_/LearnPySide/Scripts/activate_this.py",
+		"/C/Users/lucia/Downloads/python/nuke-qt-4.6.2-src/build.py",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/python/PrPy/NodeGraphGrid.py",
+		"/C/Users/lucia/.nuke/menu.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/WriteExe.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/TrackerTools.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/tracker_checkboxes.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/superAutoCrop.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/presetBackdropV2.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/OpenFolder.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/NodeGraphGrid.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/Labelizer.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/FrameBreakdown.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/fastOutputEXR.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/BringDownViewer.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/AutoProjectSettings.py",
+		"/C/Users/lucia/.nuke/scripts/GoToDirectory.py",
+		"/C/Users/lucia/.nuke/scripts/readFromWrite.py",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/menu.py",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/NUKE_batch.render.frontend",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/teste.frontend",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/teste.frontend.ini",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/frog.frontend.ini",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/FroG.exe",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/python/PrPy/RendersSetup.py",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/NUKE_batch.render.frontend.ini",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/Cequina_batch.render.frontend",
+		"/B/_Tools_/MyTools/NUKE.batch.render.GUI_v1.0/README.txt",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/bat/Pr_Suite Nuke Full Render.bat",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/bat/Pr_Suite Nuke Multi Frames Render.bat",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/bat/Pr_Suite Nuke Queue Render.bat",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/bat/Pr_Suite Nuke Renders Documentation.bat",
+		"/B/_Tools_/_usefulTools_/full_packs/cragl/connect_v2.9/menu.py",
+		"/B/_Tools_/_usefulTools_/full_packs/cragl/connect_v2.9/connect/tooltips.pyc",
+		"/B/_Tools_/_usefulTools_/full_packs/cragl/load_version.py",
+		"/B/_Tools_/_usefulTools_/full_packs/cragl/menu.py",
+		"/B/_Tools_/MyTools/AutoProjectSettings/AutoProjectSettings.py",
+		"/C/Users/lucia/.nuke/init.py",
+		"/B/_Tools_/MyTools/nukepedia/FrameBreakdown.py",
+		"/B/_Tools_/MyTools/nukepedia/FrameBreakdown/FrameBreakdown.py",
+		"/B/_Tools_/cqnTools/cqnTools/FrameBreakdown/ref_menu.py",
+		"/B/_Tools_/cqnTools/cqnTools/FrameBreakdown/FrameBreakdown.py",
+		"/B/_Tools_/MyTools/nukepedia/cqnTools.py",
+		"/B/_Tools_/MyTools/nukepedia/FrameBreakdown/ref_menu.py",
+		"/B/_Tools_/cqnTools/cqnTools/AutoProjectSettings/ref_menu.py",
+		"/B/_Tools_/cqnTools/cqnTools/superAutoCrop/ref_menu.py",
+		"/B/_Tools_/MyTools/nukepedia/ref_menu.py",
+		"/B/_Tools_/_usefulTools_/3D/PworldToTrack.gizmo",
+		"/B/_Tools_/_usefulTools_/3D/PworldToTrack.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/menu.py",
+		"/B/_Tools_/_usefulTools_/python/tracker_checkboxes.py",
+		"/B/_Tools_/_usefulTools_/python/viewerLock1.6/menu.py",
+		"/B/_Tools_/MyTools/ReadReport_Linux/readReport_v1.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/Preferences.py",
+		"/C/Users/lucia/.nuke/AutoProject_pref.py",
+		"/C/Users/lucia/.nuke/pr_suite_preferences.py",
+		"/B/_Tools_/MyTools/AutoProjectSettings/sampleCodes/SaveHistory_txt.py",
+		"/B/_Tools_/MyTools/AutoProjectSettings/sampleCodes/SaveHistory_py.py",
+		"/C/Users/lucia/.nuke/Cequina_APSpref.py",
+		"/C/Users/lucia/.nuke/lucia_APSpref.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/SaveLog.py",
+		"/B/_Tools_/MyTools/AutoProjectSettings/sampleCodes/SaveHistory.py",
+		"/C/Users/lucia/.nuke/scripts/atom_server.py",
+		"/B/_Tools_/MyTools/labelizer/newLabelizer",
+		"/C/Prism/Plugins/Apps/Nuke/Gizmos/WritePrism.gizmo",
+		"/C/Prism/Plugins/Apps/Nuke/Integration/menu.py",
+		"/C/Prism/Plugins/Apps/Nuke/Scripts/Prism_Nuke_init.py",
+		"/C/Prism/Plugins/Apps/Nuke/Scripts/Prism_Nuke_Integration.py",
+		"/C/Prism/Scripts/ProjectCreated.py",
+		"/C/Prism/Scripts/PrismTray.py",
+		"/C/Prism/Scripts/PrismUtils/PathManager.py",
+		"/C/Prism/Scripts/PrismUtils/Users.py",
+		"/C/Prism/Scripts/PrismUtils/GoogleDocs.py",
+		"/B/_Tools_/_usefulTools_/python/Print_Animated_Keyframes.py",
+		"/B/_Tools_/_usefulTools_/python/winExploreDir.py",
+		"/B/_Tools_/_usefulTools_/python/DL_FolderGenerator_v01.2/DL_FolderGenerator_v01.2.py",
+		"/B/_Tools_/_usefulTools_/python/DL_FolderGenerator_v01.2/teste.py",
+		"/B/_Tools_/MyTools/nukepedia/TrackerTools/TrackerTools.py",
+		"/B/_Tools_/MyTools/markCheckbox_Tracker/tracker_checkboxes.py",
+		"/C/Users/lucia/.nuke/scripts/cqnTools/MM_menu.py",
+		"/C/Users/lucia/3D Objects/AutoProjectSettings.py",
+		"/C/Users/lucia/AppData/Local/Temp/Temp1_AutoProjectSettings.zip/AutoProjectSettings.py",
+		"/B/_Tools_/_usefulTools_/python/AssembleEdit/AssembleEdit.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/ReadFromWrite_backup.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/RendersSetup.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/ReadFromWrite.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/OpenFolder.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/NukeMultiFramesRender.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/License.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/About.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/LabelShuffle.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/HighlightNode.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/python/PrPy/DeleteErrorReads.py",
+		"/C/Users/lucia/.nuke/Pr_Suite/init.py",
+		"/B/_Tools_/MyTools/ReadReport_Linux/ReportandCopy_v1.py",
+		"/B/_Tools_/MyTools/ReadReport_Linux/test/BDH_1009_comp_v03.nk",
+		"/B/_Tools_/_usefulTools_/full_packs/Pr_Suite+v1.1/Pr_Suite/python/NukeQueueRender.py",
+		"/B/_Tools_/_usefulTools_/3D/GodRaysProjector_deep.nk",
+		"/B/_Tools_/_usefulTools_/transform/Nuke_Center_Pivot.py",
+		"/B/_Tools_/_usefulTools_/filters/ae_BrokenEdges/Aitor_Echeveste/aeBrokenEdges/aeBrokenEdges.gizmo",
+		"/C/Users/lucia/.nuke/scripts/AutoProjectSettings.py",
+		"/C/Users/lucia/.nuke/scripts/AutoProjectSettings - Copia.py",
+		"/C/Users/lucia/.nuke/scripts/AutoProjectSettings___.py",
+		"/A/Avengers/AVG_VFX1055_comp/project/AVG_VFX1055_comp_v001.nk",
+		"/B/_Tools_/_usefulTools_/filters/aeAnamorphic_v1.0/Aitor_Echeveste/aeAnamorphic/aeAnamorphic.gizmo",
+		"/C/Users/lucia/Downloads/superAutoCrop/superAutoCrop.py",
+		"/B/_Tools_/MyTools/nukepedia/superAutoCrop/superAutoCrop.py",
+		"/C/Users/lucia/.nuke/scripts/superAutoCrop.py",
+		"/C/Users/lucia/Downloads/Breakdown_Maker.gizmo",
+		"/B/_Master_Folder_/Scritp_Name/scripts/Script_Name.nk",
+		"/B/_Tools_/MyTools/AutoProjectSettings/ref_menu.py",
+		"/C/Users/lucia/.nuke_test/menu.py",
+		"/B/_Tools_/MyTools/Write.exe/WriteExe.py",
+		"/B/_Tools_/MyTools/Write.exe/sampleCodes/TryWrites.py",
+		"/B/_Tools_/MyTools/_TodoList_.py",
+		"/B/_Tools_/_usefulTools_/full_packs/Borgo_Tools/RotopaintToSplineWarp_v2.py",
+		"/B/_Tools_/MyTools/AutoProjectSettings/backup/AutoProjectSettings_v006.py",
+		"/B/_Tools_/MyTools/labelizer/DotLabel.py",
+		"/B/_Tools_/MyTools/autoBackdrop/ref/GrayAutoBackdrop/GrayAutoBackdrop.py",
+		"/C/Users/lucia/.nuke/scripts/_AutoProjectSettings.py",
+		"/B/_Tools_/MyTools/nukepedia/Offset.nk",
+		"/C/Users/lucia/.nuke/gizmos/AlphaEdge_V2.gizmo",
+		"/B/_Tools_/MyTools/samplesCodes/ProgressBar.py",
+		"/B/_Tools_/MyTools/labelizer/ref/fxT_dotLinker/dotLinker.py"
+	],
+	"find":
+	{
+		"height": 29.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print",
+			"noneType",
+			":\n",
+			"write",
+			"readFile = 'Read File'\n\nstartAt = 'Force Start at Frame 1001'\nexportAt = 'Export on Original Frame Range'\nlocalizer = 'Localization Policy'\n\nsaveFolder = 'Master Folder'\nscriptName = 'Script Name'\naddFolder = 'scripts, output, assets'",
+			"frame",
+			"parent",
+			"input",
+			"inpanel",
+			"inpa",
+			"]\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": ".gitattributes.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
