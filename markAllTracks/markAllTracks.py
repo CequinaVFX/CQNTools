@@ -112,5 +112,5 @@ def tracker_checkboxes(this_node, t_knob_value, r_knob_value, s_knob_value):
 
 #Add a menu and assign a shortcut
 Toolbar = nuke.menu('Nodes')
-cqnTools = Toolbar.addMenu('Tools', 'Modify.png')
+cqnTools = Toolbar.addMenu('CQNTools', 'Modify.png')
 cqnTools.addCommand('Mark all tracks', 'markAllTracks.get_Properties()', 'Alt+Shift+C', icon = 'Tracker.png' )
