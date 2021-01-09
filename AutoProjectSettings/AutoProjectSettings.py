@@ -70,7 +70,7 @@ def AutoProjectSettings():
 		pass # If hit 'Cancel', pass
 
 	elif result == 1:
-		nuke.message('<font size = 4 color = "orange">Created by Luciano Cequinel\nVersion 1.0\n<a href="http://www.linkedin.com/in/cequinel" style = "color:#db4040;" >Talk to me!</a>')
+		nuke.message('<font size = 4 color = ""#EF4E3D"">Created by Luciano Cequinel\nVersion 1.0\n<a href="http://www.linkedin.com/in/cequinel" style = "color:#db4040;" >Talk to me!</a>')
 
 		AutoProjectSettings() #Return to dialog box
 
