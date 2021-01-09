@@ -146,7 +146,7 @@ def get_Properties():
 #
 ########################################
 # Function to link a Tracker into a Roto
-# shortcut: none
+# Shortcut: none
 #
 def Tk2Roto_Linked():
 
@@ -194,7 +194,6 @@ def Tk2Roto_Linked():
 
 	newRoto['reff'].setExpression(ref)
 	newRoto['label'].setValue('Reference Frame: [value knob.reff]')
-#
 #
 # End of Tk2Roto_Linked function
 ################################
@@ -294,7 +293,6 @@ def Tk2Roto_Baked():
 	#Change back to Original Transform
 	node['transform'].setValue(orgTransform)
 #
-#
 # End of Tk2Roto_Baked function
 ###################################
 #
@@ -358,7 +356,7 @@ def Tk2Transform_Linked():
 #
 #############################################
 # Function to bake a tracker into a transform
-# Shortcut: none
+# Shortcut: F3
 #
 def Tk2Transform_Baked():
 
@@ -457,6 +455,7 @@ def Tk2Transform_Baked():
 #
 ###############################
 # Bake a CornerPin to a Tracker
+# Shortcut: shift + c
 #
 def CPin2Tracker():
 
@@ -483,8 +482,11 @@ def CPin2Tracker():
 	tracker = nuke.createNode("Tracker4")
 
 	tracker.setName('Tracker_From_' + node.name() + '_', uncollide=True)
-
+	tracker.setInput(0, None)
 	trackerNode = tracker
+
+	tracker.setXpos( int (node['xpos'].getValue() + 100 ) )
+	tracker.setYpos( int (node['ypos'].getValue() + 100 ) )
 
 	tracker['transform'].setValue('match-move')
 	tracker['reference_frame'].setValue(nuke.frame())
@@ -558,6 +560,7 @@ def CPin2Tracker():
 #
 #############################################
 # Create a stabilization kit from a CornerPin
+# Shortcut: alt + shift + c
 #
 def StabFromMocha():
 
@@ -707,21 +710,19 @@ def StabFromMocha():
 # End of StabFromMocha function
 ###############################
 #
-
-
-
-# Add a menu and assign a shortcut
+#
+# Add a Toolbar menu and assign a shortcut
 toolbar = nuke.menu('Nodes')
 cqnTools = toolbar.addMenu('CQNTools', 'Modify.png')
 
 cqnTools.addCommand('Link Tracker to Roto', 'Baker_ToolKit.Tk2Roto_Linked()', icon='Roto.png')
 cqnTools.addCommand('Bake Tracker to Roto', 'Baker_ToolKit.Tk2Roto_Baked()', 'F2', icon='Roto.png')
-
+cqnTools.addSeparator()
 cqnTools.addCommand('Link Tracker to Transform', 'Baker_ToolKit.Tk2Transform_Linked()', icon='Roto.png')
 cqnTools.addCommand('Bake Tracker to Transform', 'Baker_ToolKit.Tk2Transform_Baked()', 'F3', icon='Roto.png')
-
+cqnTools.addSeparator()
 cqnTools.addCommand('Bake CornerPin to Tracker', 'Baker_ToolKit.CPin2Tracker()', 'shift+c', icon='CornerPin.png')
-
+cqnTools.addSeparator()
 cqnTools.addCommand('Stab kit from Mocha', 'Baker_ToolKit.StabFromMocha()', 'alt+c', icon='CornerPin.png')
-
+cqnTools.addSeparator()
 cqnTools.addCommand('MarkAll', 'Baker_ToolKit.get_Properties()', 'alt+shift+c', icon='Tracker.png')
