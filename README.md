@@ -1,3 +1,3 @@
 # cqnTools
 Random Nuke Tools of my python scripts.
-Visit my blog to see the details of each: cequinavfx.com
+Visit my website to see more details of each: cequinavfx.com
